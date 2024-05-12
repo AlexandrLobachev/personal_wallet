@@ -38,12 +38,14 @@ git clone git@github.com:AlexandrLobachev/personal_wallet.git
 Для этого нобходимо:
 
 ### Cоздать и активировать виртуальное окружение:
-`python3 -m venv venv`
-`source venv/bin/activate`
+```python3 -m venv venv```
+
+```source venv/bin/activate```
 
 ### Установить зависимости из файла requirements.txt:
-`python3 -m pip install --upgrade pip`
-`pip install -r requirements.txt`
+```python3 -m pip install --upgrade pip```
+
+```pip install -r requirements.txt```
 
 ### Запустить тесты:
-`pytest -v`
+```pytest -v```
