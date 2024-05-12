@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2024-01-01",
+        "category": "Доход",
+        "amount": 100000,
+        "description": "Зарплата"
+    },
+    {
+        "date": "2024-01-10",
+        "category": "Расход",
+        "amount": 10000,
+        "description": "ЖКХ"
+    },
+    {
+        "date": "2024-03-01",
+        "category": "Расход",
+        "amount": 25000,
+        "description": "Шины"
+    },
+    {
+        "date": "2024-05-01",
+        "category": "Расход",
+        "amount": 15000,
+        "description": "Отпуск"
+    },
+    {
+        "date": "2024-05-10",
+        "category": "Доход",
+        "amount": 50000,
+        "description": "Зарплата"
+    }
+]
